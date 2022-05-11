@@ -25,6 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This is a practise project to get Users Data from 42API using oauth system. Gotta be integrated in Ft_transcendance (42 web project). 
 
 ## Installation
 
